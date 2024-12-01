@@ -1,0 +1,5 @@
+# Fichiers et dossiers à ignorer
+.idea/
+*.log
+__pycache__/
+*.pyc
